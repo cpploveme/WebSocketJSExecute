@@ -1,0 +1,9 @@
+{
+    "name": "Python 3.10",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.10",
+    "settings": {
+      "python.defaultInterpreterPath": "/usr/local/bin/python3.10"
+    },
+    "postCreateCommand": "python -m pip install --upgrade pip"
+  }
+  
