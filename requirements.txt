@@ -1,0 +1,8 @@
+pyjwt
+yarl
+pyyaml
+js2py
+psutil
+aiohttp
+nest-asyncio
+cryptography
